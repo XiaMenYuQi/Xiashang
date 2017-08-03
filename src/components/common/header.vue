@@ -1,15 +1,15 @@
 <template>
-  <header class="small">
+  <header class="large">
     <div class="container">
       <nav>
-        <a href="https://www.dyyseo.com/" id="logo"><img src="/static/images/24cca6e93a356e99c1638d0751af6622.png" alt="第一页网络科技有限公司"></a>
-        <ul class="head_right" style="display: none;">
+        <a href="/" id="logo"><img src="/static/images/index/24cca6e93a356e99c1638d0751af6622.png" alt="第一页网络科技有限公司"></a>
+        <ul class="head_right">
           <li><img src="/static/images/head-phone.jpg" alt=""><p>400-666-7710</p><p>400-661-8788</p></li>
           <li><img src="/static/images/head-qq.jpg" alt=""><p>800018510</p></li>
         </ul>
         <div id="cssmenu"><div id="menu-line" style="width: 36px; left: 0px;"></div><div id="menu-button">Menu</div>
           <ul style="overflow: hidden;">
-            <li class="active"><a href="https://www.dyyseo.com/">首页</a></li>
+            <li class="active"><router-link to="/">首页</router-link></li>
             <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC_d1">关于我们</a>
               <ul style="overflow: hidden;">
                 <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B_d54" title="发展历程">发展历程</a>
@@ -20,7 +20,9 @@
                 </li>
               </ul>
             </li>
-            <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E5%A4%9A%E8%AF%AD%E7%A7%8D%E6%95%B4%E5%90%88%E8%90%A5%E9%94%80_d5">服务项目</a>
+            <li class="has-sub">
+              <span class="submenu-button"></span>
+              <router-link to="/server1">服务项目</router-link>
               <ul style="overflow: hidden;">
                 <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E6%B5%B7%E5%A4%96%E5%A4%9A%E8%AF%AD%E7%A7%8D%E6%95%B4%E5%90%88%E8%90%A5%E9%94%80_d5" title="海外推广">海外推广</a>
                   <ul style="overflow: hidden;">

@@ -3,9 +3,10 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import iView from 'iview';
-import 'iview/dist/styles/iview.css';    // 使用 CSS
+import iView from 'iview'
+import 'iview/dist/styles/iview.css'  // 使用 CSS
 import 'bootstrap/dist/css/bootstrap.min.css'
+import '../static/css/font-awesome.min.css'
 import '../static/css/style.css'
 import '../static/css/responsive-menu.css'
 
