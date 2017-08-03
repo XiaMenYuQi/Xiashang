@@ -22,25 +22,27 @@
             </li>
             <li class="has-sub">
               <span class="submenu-button"></span>
-              <router-link to="/server1">服务项目</router-link>
+              <router-link to="/server/0">服务项目</router-link>
               <ul style="overflow: hidden;">
-                <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E6%B5%B7%E5%A4%96%E5%A4%9A%E8%AF%AD%E7%A7%8D%E6%95%B4%E5%90%88%E8%90%A5%E9%94%80_d5" title="海外推广">海外推广</a>
+                <li class="has-sub">
+                  <span class="submenu-button"></span>
+                  <router-link to="/server/0">海外推广</router-link>
                   <ul style="overflow: hidden;">
-                    <li><a href="https://www.dyyseo.com/%E5%A4%9A%E8%AF%AD%E7%A7%8D%E6%95%B4%E5%90%88%E8%90%A5%E9%94%80_d5" title="多语种整合营销">多语种整合营销</a></li>
-                    <li><a href="https://www.dyyseo.com/%E5%8D%95%E8%AF%AD%E7%A7%8D%E6%95%B4%E5%90%88%E8%90%A5%E9%94%80_d39" title="单语种整合营销">单语种整合营销</a></li>
-                    <li><a href="https://www.dyyseo.com/%E5%93%8D%E5%BA%94%E5%BC%8F%E8%90%A5%E9%94%80%E7%BD%91%E7%AB%99_d68" title="响应式营销网站">响应式营销网站</a></li>
-                    <li><a href="https://www.dyyseo.com/%E6%B5%B7%E5%A4%96sns%E6%95%B4%E5%90%88%E8%90%A5%E9%94%80_d47" title="海外SNS整合营销">海外SNS整合营销</a></li>
-                    <li><a href="https://www.dyyseo.com/%E7%BD%91%E7%AB%99%E5%85%A8%E7%90%83cdn%E5%8A%A0%E9%80%9F_d36" title="网站全球CDN加速">网站全球CDN加速</a></li>
-                    <li><a id="single_page_id48" href="https://www.dyyseo.com/%E5%A4%96%E8%B4%B8%E7%BD%91%E7%AB%99%E6%95%B4%E7%AB%99%E4%BC%98%E5%8C%96_d48" title="外贸网站整站优化">外贸网站整站优化</a></li>
+                    <li><router-link to="/server/0">多语种整合营销</router-link></li>
+                    <li><router-link to="/server/1">单语种整合营销</router-link></li>
+                    <li><router-link to="/server/2">响应式营销网站</router-link></li>
+                    <li><router-link to="/server/3">海外SNS整合营销</router-link></li>
+                    <li><router-link to="/server/4">网站全球CDN加速</router-link></li>
+                    <!--<li><router-link to="/server6">外贸网站整站优化</a></li>-->
                   </ul>
                 </li>
-                <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E4%B8%AD%E6%96%87%E6%8E%A8%E5%B9%BF_d7" title="中文推广">中文推广</a>
+                <li class="has-sub"><span class="submenu-button"></span><router-link to="/server/5">中文推广</router-link>
                 </li>
-                <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E5%9B%BD%E9%99%85b2b%E5%B9%B3%E5%8F%B0_d30" title="国际B2B平台">国际B2B平台</a>
+                <li class="has-sub"><span class="submenu-button"></span><router-link to="/server/6">国际B2B平台</router-link>
                 </li>
-                <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E5%A4%96%E8%B4%B8%E9%BB%84%E5%9F%94%E5%86%9B%E6%A0%A1_d35" title="外贸黄埔军校">外贸黄埔军校</a>
+                <li class="has-sub"><span class="submenu-button"></span><router-link to="/server/7">外贸黄埔军校</router-link>
                 </li>
-                <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E7%BD%91%E5%BA%97%E4%BB%A3%E8%BF%90%E8%90%A5_d8" title="网店代运营">网店代运营</a>
+                <li class="has-sub"><span class="submenu-button"></span><router-link to="/server/8">网店代运营</router-link>
                 </li>
               </ul>
             </li>

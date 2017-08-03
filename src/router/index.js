@@ -2,7 +2,8 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import index from '@/components/index'
 import indexPage from '@/components/view/indexPage'
-import server1 from '@/components/view/server/server1'
+import server from '@/components/view/server'
+import test from '@/components/view/test'
 
 Vue.use(Router);
 
@@ -13,16 +14,22 @@ export default new Router({
       path: '/',
       name: 'index',
       component: index,
+      redirect : '/index',
       children: [
         {
-          path: '/',
+          path: '/index',
           name: 'indexPage',
           component: indexPage
         },
         {
-          path: '/server1',
-          name: 'server1',
-          component: server1
+          path: '/server/:id',
+          name: 'server',
+          component: server
+        },
+        {
+          path: '/test',
+          name: 'test',
+          component: test
         }
       ]
     },
