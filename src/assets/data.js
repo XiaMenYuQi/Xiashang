@@ -810,6 +810,66 @@ const data = {
             <p class="MsoNormal"></p>
             <p class="MsoNormal"><b style="line-height:normal;font-family:微软雅黑;font-size:12pt;"><span style="text-indent:21pt;color:#ff9900;font-size:24px;" lang="EN-US"><span style="font-family:Arial;font-size:32px;">热线电话：400-666-7710&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dyyseo.com/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC_d20" target="_blank"><img alt="" src="/static/images/server/20140901163934_86260.png"></a></span></span></b></p>`
     },
+  ],
+  google : [
+    {
+      title : 'Google AdWords',
+      content : `<img src="/static/images/other/20150312115511_65210.png" alt=""> <p>&nbsp;</p>
+            <p><b><span style="color:#99bb00;font-size:24px;"><img src="/static/images/other/20150305081941_62909.png" alt=""></span></b></p>
+            <p><b><span style="color:#99bb00;font-size:24px;"> </span></b></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;letter-spacing:0pt;font-size:12pt;"><span>Google&nbsp;AdWords&nbsp;关键字广告<b><span style="font-size:18px;">出口易</span></b>计划</span></span><span style="font-family:微软雅黑;color:#000000;letter-spacing:0pt;font-size:12pt;">，是Google及其正式授权代理商为<b><span style="font-size:18px;">满足出口贸易企业海外推广需要</span></b>而推出的<b><span style="font-size:18px;">英文关键字广告计划</span></b>。1</span><span style="font-family:微软雅黑;color:#7a7a7a;letter-spacing:0pt;font-size:12pt;"></span></p>
+            <span style="color:#000000;"> </span><table style="width:100%;" border="1" bordercolor="#FFFFFF" cellpadding="2" cellspacing="0"><tbody><tr><td>&nbsp;<p class="MsoNormal" align="center"><a target="_blank" href="http://www.google.cn/intl/zh-CN/ads/premiersmbpartner/index.html"><span style="font-family:微软雅黑;color:#337fe5;letter-spacing:0pt;font-weight:bold;font-size:12pt;"><img src="/static/images/other/20150312112301_56768.png" alt="" height="358" width="358"></span></a></p>
+              <p>&nbsp;</p>
+            </td>
+              <td><p class="MsoNormal"><span style="font-family:微软雅黑;color:#337fe5;letter-spacing:0pt;font-weight:bold;font-size:12pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#e53333;">Google关键字广告实例</span></span></p>
+                <p class="MsoNormal"><span style="font-family:微软雅黑;color:#337fe5;letter-spacing:0pt;font-weight:bold;font-size:12pt;"><img src="/static/images/other/20150304141419_34346.png" alt="" height="378" width="642"></span></p>
+                <p class="MsoNormal"><span style="font-family:微软雅黑;color:#337fe5;letter-spacing:0pt;font-weight:bold;font-size:12pt;"><br>
+</span></p>
+              </td>
+            </tr>
+            </tbody>
+            </table>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#337fe5;letter-spacing:0pt;font-weight:bold;font-size:12pt;"> </span></p>
+            <br>
+            <p>
+              <span style="color:#99bb00;font-size:24px;"><b><img src="/static/images/other/20150305082010_77702.png" alt=""></b></span> </p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;letter-spacing:0pt;font-weight:bold;font-size:12pt;">企业触及全球</span><span style="font-family:微软雅黑;letter-spacing:0pt;font-weight:bold;font-size:12pt;"></span></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#7a7a7a;letter-spacing:0pt;font-size:12pt;">覆盖200多个国家和地区，有100多种界面语言和国际域名</span><span style="font-family:微软雅黑;color:#7a7a7a;letter-spacing:0pt;font-size:12pt;"></span></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#7a7a7a;letter-spacing:0pt;font-size:12pt;"><img src="/static/images/other/20150304141716_98100.png" alt="" align="right" height="190" width="411"> </span></p>
+            <p class="MsoNormal"></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;font-weight:bold;font-size:12pt;">广告只针对目标客户</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;color:#7a7a7a;font-size:12pt;">您的企业和产品信息直接展示给对它们真正感兴趣的潜在客户。</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:宋体;font-size:10.5pt;">&nbsp;</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;font-weight:bold;font-size:12pt;">清楚广告投资花在哪</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;color:#7a7a7a;font-size:12pt;">仅当有人点击您的广告时，您才需要付费。</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:宋体;font-size:10.5pt;">&nbsp;</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;font-weight:bold;font-size:12pt;">随时调整营销计划</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;color:#7a7a7a;font-size:12pt;">您可以自主决定将广告投放的国家或地区，语言，及投放时间。</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:宋体;font-size:10.5pt;">&nbsp;</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;font-weight:bold;font-size:12pt;">全程1对1专业服务</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;color:#7a7a7a;font-size:12pt;">专业海外网络提案，投资效果分析及优化，1对1全方位电话服务支持，工作日24小时内快速邮件答复，每周帐户使用报表，定制行业资讯发送等。</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:宋体;font-size:10.5pt;">&nbsp;</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;font-weight:bold;font-size:12pt;">低成本起步</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;color:#7a7a7a;font-size:12pt;">仅以广告被点击次数收费，展示免费。前期投入成本低，且每一分钱都花在潜在客户身上。</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:宋体;font-size:10.5pt;">&nbsp;</span></p>
+            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;color:#ff0000;font-weight:bold;font-size:14pt;">咨询热线：</span><span style="font-family:微软雅黑;color:#ff0000;font-weight:bold;font-size:14pt;">400-666-7710</span></p>
+            <p>&nbsp;</p>
+            <p>
+              <span style="font-size:24px;color:#99bb00;"><b><img src="/static/images/other/20150305082030_68238.png" alt=""></b></span></p>
+            <p><img src="/static/images/other/20150305082119_15021.png" alt=""></p>
+            <p>&nbsp;</p>
+            <p><b><span style="color:#99bb00;"><span style="font-size:24px;line-height:36px;"><img src="/static/images/other/20150305082048_85418.png" alt=""></span></span></b></p>
+            <p><img src="/static/images/other/20150305082217_72458.png" alt=""><br>
+              <b> </b></p>
+            <p>&nbsp;</p>
+            <p><span style="color:#99bb00;"><span style="font-size:24px;line-height:36px;"><b><img src="/static/images/other/20150305082240_10996.png" alt=""></b></span></span></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#7a7a7a;letter-spacing:0pt;font-size:12pt;"><img src="/static/images/other/20150305091557_42544.png" alt="第一页网络科技是Google在中国的AdWords广告核心合作伙伴，拥有Google业务推广团队。精通Google关键词广告的推广，帮助您成功选择、设定关键词，根据广告效果不断进行优化。对您的广告进行实时监控，定期向您发送账户使用报告，让您对自己的广告投入了如指掌。7X12小时的专业服务能让您在较短的时间内获得更多的商机与财富。"></span></p>
+            <br>`
+    },
+    {
+      title : '',
+      content : ``
+    },
   ]
 };
 

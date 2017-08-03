@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import index from '@/components/index'
 import indexPage from '@/components/view/indexPage'
 import server from '@/components/view/server'
+import google from '@/components/view/google'
 import test from '@/components/view/test'
 
 Vue.use(Router);
@@ -25,6 +26,11 @@ export default new Router({
           path: '/server/:id',
           name: 'server',
           component: server
+        },
+        {
+          path: '/google/:id',
+          name: 'google',
+          component: google
         },
         {
           path: '/test',

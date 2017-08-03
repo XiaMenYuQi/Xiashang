@@ -78,7 +78,7 @@
               </ul>
             </li>
 
-            <li id="nav-google" class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/google%20adwords%20%E4%BD%93%E9%AA%8C%E4%B8%AD%E5%BF%83_d40">Google AdWords 体验中心<img src="/static/images/hot.gif" alt=""></a>
+            <li id="nav-google" class="has-sub"><span class="submenu-button"></span><router-link to="/google/0">Google AdWords 体验中心<img src="/static/images/hot.gif" alt=""></router-link>
               <ul style="overflow: hidden;">
                 <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/google%20adwords_d37" title="Google AdWords">Google AdWords</a>
                 </li>

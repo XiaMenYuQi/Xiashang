@@ -18,7 +18,7 @@
   import { data } from '../../assets/data.js'
 
 	export default {
-		name: 'server',
+		name: 'google',
     components: {
       articleHead
     },
@@ -30,8 +30,8 @@
 		},
     created(){
 			var id = parseInt(this.$route.params.id);
-      this.title = data.server[id].title;
-      this.content = data.server[id].content
+      this.title = data.google[id].title;
+      this.content = data.google[id].content
     }
 	}
 </script>
