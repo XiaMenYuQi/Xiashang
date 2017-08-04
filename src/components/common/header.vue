@@ -2,7 +2,7 @@
   <header class="large">
     <div class="container">
       <nav>
-        <a href="/" id="logo"><img src="/static/images/index/24cca6e93a356e99c1638d0751af6622.png" alt="夏商网络科技有限公司"></a>
+        <a href="/" id="logo"><img src="/static/images/logo.png" alt="云南夏商科技有限公司"></a>
         <ul class="head_right">
           <li><img src="/static/images/head-phone.jpg" alt=""><p>0592-5553237</p></li>
           <li><img src="/static/images/head-qq.jpg" alt=""><p>4501897</p></li>
