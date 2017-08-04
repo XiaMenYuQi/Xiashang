@@ -47,7 +47,7 @@
               </ul>
             </li>
 
-            <li class="has-sub "><span class="submenu-button"></span><router-link to="/cases_list">案例欣赏</router-link>
+            <li class="has-sub "><span class="submenu-button"></span><router-link to="/casesList">案例欣赏</router-link>
             </li>
 
             <li class="has-sub "><span class="submenu-button"></span><router-link to="/newsList">新闻中心</router-link>
