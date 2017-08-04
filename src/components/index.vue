@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="main">
       <headerCom></headerCom>
 
       <router-view></router-view>
@@ -27,3 +27,5 @@
     }
 	}
 </script>
+
+

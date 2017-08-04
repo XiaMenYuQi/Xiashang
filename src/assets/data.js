@@ -1386,7 +1386,6 @@ const data = {
       date : '',
       content : ``
     }
-    },
   ],
   about : [
     {
@@ -1498,96 +1497,6 @@ const data = {
             </div>
             <div class="clearfix"></div>
 
-        </div>
-        <div class="clearfix"></div>
-    </div>`
-    },
-    {
-      title:'荣誉证书',
-      content : `<!--目录-->
-    <div class="pageBox wow fadeIn animated animated" style="visibility: visible; animation-name: fadeIn;">
-        <div class="container">
-            <ul class="page-nav">
-                <li class="pagen-depth"><router-link to="/about/3">荣誉证书</router-link></li>
-                <li><router-link to="/about/3">员工风采</router-link></li>
-            </ul>
-        </div>
-    </div>
-    <!--内容-->
-    <div class="couresBox wow slideInUp animated animated" style="visibility: visible; animation-name: slideInUp;">
-        <div class="container">
-
-            <p>&nbsp;</p>
-            <ul class="baguetteBoxTwo gallery02">
-                <li class="col-sm-3 col-xs-6"><a href="/static/images/about/c68bc98ed249a251576b1873f9f37b7c.jpg" data-caption="谷歌代理商证书">
-                    <img src="/static/images/about/c68bc98ed249a251576b1873f9f37b7c.jpg" alt="谷歌代理商证书"></a><p>谷歌代理商证书</p></li>
-                <div class="clearfix"></div>
-            </ul>
-            <script>
-                baguetteBox.run('.baguetteBoxTwo', {
-                    animation: 'fadeIn'
-                });
-            </script>
-            <div class="clearfix"></div>
-        </div>
-        <div class="clearfix"></div>
-    </div>`
-    },
-    {
-      title:'员工风采',
-      content : `<!--目录-->
-    <div class="pageBox wow fadeIn animated animated" style="visibility: visible; animation-name: fadeIn;">
-        <div class="container">
-            <ul class="page-nav">
-                <li><router-link to="/about/2">荣誉证书</router-link></li>
-                <li class="pagen-depth"><router-link to="/about/3">员工风采</router-link>></li>
-            </ul>
-        </div>
-    </div>
-    <!--主要内容-->
-    <div class="couresBox wow slideInUp animated animated" style="visibility: visible; animation-name: slideInUp;">
-        <div class="container">
-
-            <br>
-            <div class="flexslider02"><ul class="slides"><li class="flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;">
-            </li>
-            </ul>
-                <div class="clearfix"></div>
-                <ol class="flex-control-nav flex-control-paging"></ol><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev flex-disabled" href="#" tabindex="-1">Previous</a></li><li class="flex-nav-next"><a class="flex-next flex-disabled" href="#" tabindex="-1">Next</a></li></ul><div class="flex-pauseplay"><a class="flex-pause">Pause</a></div></div>
-            <ul class="baguetteBoxOne gallery">
-                <li class="col-sm-3 col-xs-6"><a href="/星光夜语翡翠湾----第一页网络科技厦门销售部户外休闲活动_n203"><img src="/static/images/about/7bef03070dc0fbbfcb7968bcd12e139a.JPG" alt="星光夜语翡翠湾----第一页网络科技厦门销售部户外休闲活动"></a><p>星光夜语翡翠湾----第一页网络科技厦门销售部户外休闲活动</p></li>
-                <li class="col-sm-3 col-xs-6"><a href="/google analytics 认证的人员_n136"><img src="/static/images/about/2b20eb4521eb7e161813580a23085dca.jpg" alt="Google Analytics 认证的人员"></a><p>Google Analytics 认证的人员</p></li>
-                <li class="col-sm-3 col-xs-6"><a href="/第一页网络科技厦门销售部 天竺山户外休闲活动_n129"><img src="/static/images/about/9d7bd01ec8779f36baec0bdd1058f556.jpg" alt="第一页网络科技厦门销售部 天竺山户外休闲活动"></a><p>第一页网络科技厦门销售部 天竺山户外休闲活动</p></li>
-                <li class="col-sm-3 col-xs-6"><a href="/广州分公司线下会议剪影_n33"><img src="https://www.dyyseo.com/static/images/about/5f1d90fcd476d524d47956d8c13daf93.JPG" alt="广州分公司线下会议剪影"></a><p>广州分公司线下会议剪影</p></li>
-                <li class="col-sm-3 col-xs-6"><a href="https://www.dyyseo.com/uploadfile/news/eb2dfafa03f77ec8f4f8177f89189411.jpeg" data-caption="总经理 —— 孙荣耀"><img src="/static/images/about/eb2dfafa03f77ec8f4f8177f89189411.jpeg" alt="总经理 —— 孙荣耀"></a><p>总经理 —— 孙荣耀</p></li>
-                <li class="col-sm-3 col-xs-6"><a href="/厦门销售分公司户外活动剪影_n30"><img src="https://www.dyyseo.com/static/images/about/c7446c89e2fd28012ca2215c1837cc12.jpg" alt="厦门销售分公司户外活动剪影"></a><p>厦门销售分公司户外活动剪影</p></li>
-                <li class="col-sm-3 col-xs-6"><a href="/合肥技术总部产业园新办公地点_n27"><img src="https://www.dyyseo.com/static/images/about/06b4775ce1d1fcb439aaffe48cda181c.jpg" alt="合肥技术总部产业园新办公地点"></a><p>合肥技术总部产业园新办公地点</p></li>
-                <li class="col-sm-3 col-xs-6"><a href="/厦门会议剪影_n26"><img src="https://www.dyyseo.com/static/images/about/0fa36fefb7cc5966c9670c49de87048e.JPG" alt="厦门会议剪影"></a><p>厦门会议剪影</p></li>
-                <li class="col-sm-3 col-xs-6"><a href="/厦门销售分公司全家福_n25"><img src="https://www.dyyseo.com/static/images/about/ee0c625180c83adbda3b3ed04abb746b.jpg" alt="厦门销售分公司全家福"></a><p>厦门销售分公司全家福</p></li>
-                <div class="clearfix"></div>
-            </ul>
-            <script>
-                baguetteBox.run('.baguetteBoxOne', {
-                    animation: 'fadeIn'
-                });
-            </script>
-            <div class="clearfix"></div>
-
-
-
-            <!--        <ul class="about_nav">
-                                                                        <li class="col-sm-4 col-xs-12">
-                            <a href="/荣誉证书_d55" title="荣誉证书">
-                            <span><img src="https://www.dyyseo.com/uploadfile/single/dc84beef3d4daa10a8edd8942d66ab5c.jpg" alt="荣誉证书" /><p></p></span>
-                            <em>荣誉证书</em></a>
-                        </li>
-                                                <li class="col-sm-4 col-xs-12">
-                            <a href="/员工风采_d56" title="员工风采">
-                            <span><img src="https://www.dyyseo.com/uploadfile/single/d84d78060f4695bd37b230c1cc632ae0.jpg" alt="员工风采" /><p></p></span>
-                            <em>员工风采</em></a>
-                        </li>
-                                                <div class="clearfix"></div>
-                    </ul>-->
         </div>
         <div class="clearfix"></div>
     </div>`

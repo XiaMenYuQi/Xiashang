@@ -9,6 +9,7 @@ import newsDetail from '@/components/view/newsDetail'
 import test from '@/components/view/test'
 import about from '@/components/view/about'
 import cases from '@/components/view/cases'
+import contact from '@/components/view/contact'
 
 Vue.use(Router);
 
@@ -60,6 +61,11 @@ export default new Router({
           path: '/cases/:id',
           name: 'cases',
           component: cases
+        },
+        {
+          path: '/contact',
+          name: 'contact',
+          component: contact
         }
       ]
     },

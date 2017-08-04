@@ -23,10 +23,17 @@
       content : ''
     }
   },
+  watch :{
+    '$route' (to, from) {
+      var id = parseInt(this.$route.params.id);
+      this.title = data.about[id].title;
+      this.content = data.about[id].content;
+    }
+  },
   created(){
     var id = parseInt(this.$route.params.id);
     this.title = data.about[id].title;
-    this.content = data.about[id].content
+    this.content = data.about[id].content;
   }
   }
 </script>
