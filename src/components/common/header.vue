@@ -10,13 +10,13 @@
         <div id="cssmenu"><div id="menu-line" style="width: 36px; left: 0px;"></div><div id="menu-button">Menu</div>
           <ul style="overflow: hidden;">
             <li class="active"><router-link to="/">首页</router-link></li>
-            <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC_d1">关于我们</a>
+            <li class="has-sub"><span class="submenu-button"></span><router-link to="/about/0">关于我们</router-link>
               <ul style="overflow: hidden;">
-                <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B_d54" title="发展历程">发展历程</a>
+                <li class="has-sub"><span class="submenu-button"></span><router-link to="/about/1">发展历程</router-link>
                 </li>
-                <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E8%8D%A3%E8%AA%89%E8%AF%81%E4%B9%A6_d55" title="荣誉证书">荣誉证书</a>
+                <li class="has-sub"><span class="submenu-button"></span><router-link to="/about/2">荣誉证书</router-link>
                 </li>
-                <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E5%91%98%E5%B7%A5%E9%A3%8E%E9%87%87_d56" title="员工风采">员工风采</a>
+                <li class="has-sub"><span class="submenu-button"></span><router-link to="/about/3">员工风采</router-link>
                 </li>
               </ul>
             </li>
@@ -47,7 +47,7 @@
               </ul>
             </li>
 
-            <li class="has-sub "><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E6%A1%88%E4%BE%8B%E6%AC%A3%E8%B5%8F_nc2">案例欣赏</a>
+            <li class="has-sub "><span class="submenu-button"></span><router-link to="/cases/0">案例欣赏</router-link>
             </li>
 
             <li class="has-sub "><span class="submenu-button"></span><router-link to="/newsList">新闻中心</router-link>
