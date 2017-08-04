@@ -36,6 +36,7 @@
       }
     },
     created(){
+			window.scrollTo(0,0);
 			var id = parseInt(this.$route.params.id);
       this.title = data.server[id].title;
       this.content = data.server[id].content

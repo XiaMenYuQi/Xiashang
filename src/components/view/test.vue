@@ -3,76 +3,54 @@
       <articleHead :title="title"></articleHead>
       <div class="aboutBox wow slideInUp animated animated" style="visibility: visible; animation-name: slideInUp;">
         <div class="container">
-          <!--    	<em>Google视频广告</em>-->
-          <div class="clearfix"><p class="MsoNormal" style="line-height:150%;"><span style="color:#333333;font-family:Arial;font-size:18px;letter-spacing:0pt;line-height:150%;"><br>
-</span></p>
-            <p class="MsoNormal" style="line-height:150%;"><span style="color:#333333;font-family:Arial;font-size:18px;letter-spacing:0pt;line-height:150%;"><img src="/static/images/other/20170406111628_75863.png" alt=""><br>
-</span></p>
-            <p class="MsoNormal" style="line-height:150%;"><span style="color:#333333;font-family:Arial;font-size:18px;letter-spacing:0pt;line-height:150%;"><br>
-</span></p>
-            <p class="MsoNormal" style="line-height:150%;"><span style="color:#333333;font-family:Arial;font-size:18px;letter-spacing:0pt;line-height:150%;">YouTube于2005年2月15日创立。作为当前行业内最为成功、实力最为强大、影响力颇广的在线视频服务提供商，youtube的系统每天要处理上千万个视频片段，为全球成千上万的用户提供高水平的视频上传、分发、展示、浏览服务。是世界上访问量最大的视频类网站，也是目前传播速度最快，转化率最高的海外视频营销平台。</span></p>
-            <p class="MsoNormal" style="line-height:150%;"><span style="font-family:宋体;line-height:150%;color:#333333;letter-spacing:0pt;font-size:10.5pt;background-image:initial;background-attachment:initial;background-size:initial;background-origin:initial;background-clip:initial;background-position:initial;background-repeat:initial;"><span style="font-family:Arial;font-size:18px;">&nbsp;</span></o:p></span></p>
-            <p class="MsoNormal" style="line-height:150%;"><span style="font-family:Arial;line-height:150%;color:#333333;letter-spacing:0pt;font-size:18px;background-image:initial;background-attachment:initial;background-size:initial;background-origin:initial;background-clip:initial;background-position:initial;background-repeat:initial;">目前，YouTube已经可以自动识别用户电脑的语言并跳转到相应的页面，界面可供选择的语言共有61种，并提供76个地区的版本。不同地区版本会根据当地民众的搜索习惯显示热门浏览。在YouTube上投放广告，能有效提升企业的知名度与销售额。</span><span style="font-family:宋体;line-height:150%;color:#333333;letter-spacing:0pt;font-size:10.5pt;background-image:initial;background-attachment:initial;background-size:initial;background-origin:initial;background-clip:initial;background-position:initial;background-repeat:initial;"></span></p>
-            <p class="MsoNormal" style="line-height:150%;"><b style="text-align:center;line-height:18pt;text-indent:0pt;"><span style="font-family:Arial;color:#d41e23;letter-spacing:0pt;font-size:18px;"><br>
-</span></b></p>
-            <p class="MsoNormal" style="line-height:150%;"><b style="text-align:center;line-height:18pt;text-indent:0pt;"><span style="font-family:Arial;color:#d41e23;letter-spacing:0pt;font-size:18px;">NO.1</span></b><span style="text-align:center;line-height:18pt;text-indent:0pt;font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">&nbsp;全球最大的在线视频网站</span></p>
-            <p class="p" style="margin:0pt;text-indent:0pt;padding:0pt;line-height:18pt;"><b><span style="font-family:Arial;color:#d41e23;letter-spacing:0pt;font-size:18px;">NO.2</span></b><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">&nbsp;全球第二大搜索引擎</span><span style="font-family:宋体;color:#464646;letter-spacing:0pt;font-size:10.5pt;"></span></p>
-            <p class="p" style="margin:0pt;text-indent:0pt;padding:0pt;line-height:18pt;"><b><span style="font-family:Arial;color:#d41e23;letter-spacing:0pt;font-size:18px;">NO.3</span></b><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">&nbsp;全球第三大的网站</span><span style="font-family:宋体;color:#464646;letter-spacing:0pt;font-size:10.5pt;"></span></p>
-            <p class="MsoNormal" style="line-height:150%;"><span style="font-family:Arial;line-height:150%;font-size:18px;">&nbsp;</span></p>
-            <p class="p" style="margin:0pt;text-indent:0pt;padding:0pt;line-height:18pt;"><b><span style="font-family:Arial;color:#d41e23;letter-spacing:0pt;font-size:18px;">61.1亿</span></b><b><span style="font-family:Arial;color:#d41e23;letter-spacing:0pt;font-size:18px;">&nbsp;</span></b><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">每月的页面访问量达61.1亿次</span><span style="font-family:宋体;color:#464646;letter-spacing:0pt;font-size:10.5pt;"></span></p>
-            <p class="p" style="margin:0pt;text-indent:0pt;padding:0pt;line-height:18pt;"><b><span style="font-family:Arial;color:#d41e23;letter-spacing:0pt;font-size:18px;">30 亿&nbsp;</span></b><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">每天多达30亿次的视频展示</span><span style="font-family:宋体;color:#464646;letter-spacing:0pt;font-size:10.5pt;"></span></p>
-            <p class="p" style="margin:0pt;text-indent:0pt;padding:0pt;line-height:18pt;"><b><span style="font-family:Arial;color:#d41e23;letter-spacing:0pt;font-size:18px;">3 亿&nbsp;</span></b><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">YouTube的日均观看时间达3亿小时</span><span style="font-family:宋体;color:#464646;letter-spacing:0pt;font-size:10.5pt;"></span></p>
-            <p class="MsoNormal" style="line-height:150%;"><span style="font-family:Arial;line-height:150%;font-size:18px;">&nbsp;</span></p>
-            <p class="p" style="margin:0pt;text-indent:0pt;padding:0pt;line-height:18pt;"><b><span style="font-family:Arial;color:#d41e23;letter-spacing:0pt;font-size:18px;">60h</span></b><b><span style="font-family:Arial;color:#d41e23;letter-spacing:0pt;font-size:18px;">&nbsp;</span></b><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">每分钟有60小时时长的视频被上传</span><span style="font-family:宋体;color:#464646;letter-spacing:0pt;font-size:10.5pt;"></span></p>
-            <p class="p" style="margin:0pt;text-indent:0pt;padding:0pt;line-height:18pt;"><b><span style="font-family:Arial;color:#d41e23;letter-spacing:0pt;font-size:18px;">72%&nbsp;</span></b><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">72%美国用户每周至少在YT上看1次视频</span><span style="font-family:宋体;color:#464646;letter-spacing:0pt;font-size:10.5pt;"></span></p>
-            <p class="p" style="margin:0pt;text-indent:0pt;padding:0pt;line-height:18pt;"><b><span style="font-family:Arial;color:#d41e23;letter-spacing:0pt;font-size:18px;">70%&nbsp;</span></b><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">70%的YouTube流量来自于美国之外</span><span style="font-family:宋体;color:#464646;letter-spacing:0pt;font-size:10.5pt;"></span></p>
-            <p class="MsoNormal" style="line-height:150%;"><span style="font-family:Arial;line-height:150%;font-size:18px;">&nbsp;</span></p>
-            <p class="MsoNormal" style="line-height:150%;"><b style="line-height:1.5;text-indent:-21pt;"><span style="font-family:Arial;color:#333333;letter-spacing:0pt;font-size:18px;background-image:initial;background-attachment:initial;background-size:initial;background-origin:initial;background-clip:initial;background-position:initial;background-repeat:initial;">帮助您获得更高的广告</span></b><b style="line-height:1.5;text-indent:-21pt;"><span style="font-family:Arial;color:#333333;letter-spacing:0pt;font-size:18px;background-image:initial;background-attachment:initial;background-size:initial;background-origin:initial;background-clip:initial;background-position:initial;background-repeat:initial;">转化率</span></b></p>
-            <p class="MsoNormal"><span style="color:#464646;font-family:Arial;font-size:18px;letter-spacing:0pt;line-height:1.5;">YouTube是介绍新产品以及影响用户购物决策的最佳社交平台，也是转化率最高的社交平台，也是转化率最高的社交平台</span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;font-size:18px;">&nbsp;</span><b style="line-height:150%;text-indent:-21pt;"><span style="font-family:Arial;line-height:150%;color:#464646;letter-spacing:0pt;font-size:18px;">帮助</span></b><b style="line-height:150%;text-indent:-21pt;"><span style="font-family:Arial;line-height:150%;color:#464646;letter-spacing:0pt;font-size:18px;">您开展更精准有效的本土营销</span></b></p>
-            <p class="MsoNormal"><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">YouTube在全球36个国家和地区都有本地化的网站，适用的语言多达60个，让您通过本土语言、本地网站，轻松打入海外市场，获得更多订单。</span><span style="font-family:宋体;color:#464646;letter-spacing:0pt;font-size:10.5pt;"></span></p>
-            <p class="MsoNormal"><b style="line-height:1.5;text-indent:-21pt;"><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">让</span></b><b style="line-height:1.5;text-indent:-21pt;"><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">您的产品轻松覆盖全球</span></b></p>
-            <p class="MsoNormal"><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">YouTube每月用户数量突破10亿，据统计，如果YouTube是个国家，那么它会是世界上第3大国家。通过YouTube，您的产品将轻松覆盖全球各个角落。</span><span style="font-family:宋体;color:#464646;letter-spacing:0pt;font-size:10.5pt;"></span></p>
-            <p class="MsoNormal"><b style="line-height:1.5;text-indent:-21pt;"><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">为您筛选更适合的潜在目标客户</span></b></p>
-            <p class="MsoNormal"><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">YouTube每月页面访问量达61.1亿，平均访问时长为17.3分钟，且用户的年龄分布主要处于具有消费力的中青年，更符合您的潜在客户目标。</span><span style="font-family:宋体;color:#464646;letter-spacing:0pt;font-size:10.5pt;"></span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">&nbsp;</span></p>
-            <p class="MsoNormal"></p>
-            <p class="MsoNormal"><img src="/static/images/other/20170406111640_89939.png" alt=""></p>
-            <p class="MsoNormal"><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">&nbsp;</span></p>
-            <p class="MsoNormal"><!--[if !supportLists]--><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">1、</span><!--[endif]--><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">首页标头广告</span><span style="font-family:宋体;color:#464646;letter-spacing:0pt;font-size:10.5pt;"></span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">当访客登录</span><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">YouTube</span><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">网站的时候，在标头突出展示您的广告内容。</span><span style="font-family:宋体;color:#464646;letter-spacing:0pt;font-size:10.5pt;"></span></p>
-            <p class="MsoNormal"></p>
-            <p class="MsoNormal"><!--[if !supportLists]--><span style="font-family:Arial;font-size:18px;">2、</span><!--[endif]--><span style="font-family:Arial;font-size:18px;">搜索广告</span><span style="mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;"></span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;font-size:18px;">当访客使用</span><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">YouTube</span><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;">搜索工具，搜索视频信息的时候，展示您的广告内容。</span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;color:#464646;letter-spacing:0pt;font-size:18px;"><br>
-</span></p>
-            <p class="MsoNormal"><!--[if !supportLists]--><span style="font-family:Arial;font-size:18px;">3、</span><!--[endif]--><span style="font-family:Arial;font-size:18px;">横幅展示广告</span><span style="mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;"></span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;font-size:18px;">展示在精选视频的右侧和推荐视频列表的上方。对于大型播放器，此类广告可能会显示在播放器下方。</span><span style="mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;"></span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;font-size:18px;line-height:1.5;">&nbsp;</span></p>
-            <p class="MsoNormal"><!--[if !supportLists]--><span style="font-family:Arial;font-size:18px;">4、</span><!--[endif]--><span style="font-family:Arial;font-size:18px;">视频内重叠式广告</span><span style="mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;"></span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;font-size:18px;">显示在视频下部<span style="font-family:Calibri;"><span style="font-family:Arial;font-size:18px;">20%</span></span><span style="font-family:宋体;"><span style="font-family:Arial;font-size:18px;">区域内的半透明重叠式广告</span></span></span><span style="mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;"></span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;font-size:18px;">&nbsp;</span></p>
-            <p class="MsoNormal"><!--[if !supportLists]--><span style="font-family:Arial;font-size:18px;">5、</span><!--[endif]--><span style="font-family:Arial;font-size:18px;">TrueView<span style="font-family:宋体;"><span style="font-family:Arial;font-size:18px;">插播广告</span></span></span><span style="mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;"></span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;font-size:18px;">可跳过的视频广告，观看者可选择在<span style="font-family:Calibri;"><span style="font-family:Arial;font-size:18px;">5</span></span><span style="font-family:宋体;"><span style="font-family:Arial;font-size:18px;">秒后跳过广告。在主视频播放前、播放中或播放后插播。</span></span></span><span style="mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;"></span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;font-size:18px;line-height:1.5;">&nbsp;</span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;font-size:18px;">6<span style="font-family:宋体;"><span style="font-family:Arial;font-size:18px;">、</span></span></span><span style="font-family:Arial;font-size:18px;">TrueView<span style="font-family:宋体;"><span style="font-family:Arial;font-size:18px;">展示广告</span></span></span><span style="mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;"></span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;font-size:18px;">展示在其他<span style="font-family:Calibri;"><span style="font-family:Arial;font-size:18px;">YouTube</span></span><span style="font-family:宋体;"><span style="font-family:Arial;font-size:18px;">视频旁边，或者展示在与目标受众群体匹配的网站上。</span></span></span><span style="mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;"></span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;font-size:18px;">&nbsp;</span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;font-size:18px;">7<span style="font-family:宋体;"><span style="font-family:Arial;font-size:18px;">、不可跳过的插播广告</span></span></span><span style="mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;mso-font-kerning:1.0000pt;"></span></p>
-            <p class="MsoNormal"><span style="font-family:Arial;font-size:18px;">&nbsp;</span></p></div>
-          <!--        <ul class="about_nav wow slideInUp animated">
-                                                              <li class="col-sm-4 col-xs-12">
-                  <a href="/荣誉证书_d55" title="荣誉证书">
-                  <span><img src="/uploadfile/single/dc84beef3d4daa10a8edd8942d66ab5c.jpg" alt="荣誉证书" /><p></p></span>
-                  <em>荣誉证书</em></a>
-              </li>
-                                      <li class="col-sm-4 col-xs-12">
-                  <a href="/员工风采_d56" title="员工风采">
-                  <span><img src="/uploadfile/single/d84d78060f4695bd37b230c1cc632ae0.jpg" alt="员工风采" /><p></p></span>
-                  <em>员工风采</em></a>
-              </li>
-                                      <div class="clearfix"></div>
-          </ul>-->
+          <div class="clearfix">
+            <p>&nbsp;</p>
+            <p>
+              <table style="width:100%;" class="ke-zeroborder" border="0" bordercolor="#ffffff" cellpadding="2" cellspacing="0">
+                <tbody>
+                <tr>
+                  <td>&nbsp;<a href="/server/1" target="_blank"><img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327125230_28022.jpg" /></a></td>
+                  <td>&nbsp;<a href="/server/0" target="_blank"><img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327125244_49634.jpg" /></a></td>
+                  <td>&nbsp;<a href="/google/1" target="_blank"><img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327125301_46993.jpg" /></a></td>
+                  <td>&nbsp;<a href="/google/2" target="_blank"><img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327125314_45970.jpg" /></a></td>
+                </tr>
+            </tbody>
+            </table>
+            </p>
+            <p>&nbsp;</p>
+            <p>&nbsp;<img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327125447_51981.jpg" /></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><img style="width:260px;height:366px;" alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327130018_65837.jpg" align="right" height="412" width="316" /></span></p>
+            <p class="MsoNormal">&nbsp;</p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327125940_78539.jpg" />&nbsp; 搜索引擎优化（Search&nbsp;Engine&nbsp;Optimization，简称SEO）是一种利用搜索引擎的搜索规则来提高目的网站在有关搜索引擎内的排名的方式。通过SEO这样一套基于搜索引擎的营销思路，为网站提供生态式的自我营销解决方案，让网站在行业内占据领先地位，从而获得品牌收益。</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--></span></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><o:p>&nbsp;</o:p></span></p>
+            <p class="MsoNormal">&nbsp;</p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327125955_89883.jpg" />&nbsp; 第一页网络作为全国第一家专注于SEO关键词优化服务的专业公司，一直致力于以关键词优化为核心，以研究搜索引擎优化为方向，9年来为全国超过5000家客户提供各类国内外搜索引擎优化服务。</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"></span></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><o:p>&nbsp;</o:p></span></p>
+            <p class="MsoNormal">&nbsp;</p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327130006_19085.jpg" />&nbsp; 第一页网络科技不仅只做谷歌的左侧优化排名，同时也注重整体的搜索引擎营销(如yandex、Aol、Ask、Yahoo、bing等全球知名搜索引擎整体营销)。服务以客户为本，为满足不同客户需求，提供单语种（英语）以及多语种SEO海外推广服务。</span></p>
+            <p class="MsoNormal">&nbsp;</p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"></span><img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327130115_98044.jpg" />&nbsp;</p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><img style="width:270px;height:260px;" alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327130315_55381.jpg" align="left" height="268" width="282" />Google&nbsp;AdWords&nbsp;关键字广告出口易计划，是Google（谷歌）及其正式授权代理商为满足出口贸易企</span></p>
+            <p class="MsoNormal">&nbsp;</p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">业海外推广需要而推出的英文关键字广告计划。</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"></span></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><o:p>&nbsp;</o:p></span></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">第一页网络科技于</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">2015年2月11日正式成为</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">Google在中国的</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">AdWords广告核心合作伙伴。</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">第一页</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">拥有</span></p>
+            <p class="MsoNormal">&nbsp;</p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">Google业务推广</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">团队，</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">精通Google关键词广告的推广，帮助您成功选择、设定关键词，根据广告效果</span></p>
+            <p class="MsoNormal">&nbsp;</p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">不断进行优化。</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">整合了第一页出口易（单语种），第一页出口易（多语种）推广服务方案，贴近外贸客户需求。</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"></span></p>
+            <!--EndFragment--><p class="MsoNormal">&nbsp;</p>
+            <p class="MsoNormal">&nbsp;</p>
+            <p class="MsoNormal"><img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327130352_89027.jpg" /></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327130623_97693.jpg" align="right" height="410" width="304" /><img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327130444_23507.jpg" />&nbsp; SEM营销是网络营销的主要手段，对于网站推广、网络品牌、产品推广、在线销售等具有明显的效果。它通过较高的搜索引擎排名来增加您的网站的点击率，即浏览量，从而获得产品或服务销售额的飙升。</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"></span></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><o:p>&nbsp;</o:p></span></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327130452_49048.jpg" />&nbsp; 第一页网络</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">根据客户的产品、市场、网站、关键词等，帮助您分析网站推广的计划和策略，</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">通过专业</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">SEO优化，</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">让你的网站通过大批量的关键词展示在Google、Yahoo、Bing等搜索引擎左侧前列，进而获取大量的访问量。与其他网络社会化推广渠道</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">（&nbsp;</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">Facebook、&nbsp;google+、&nbsp;linkedin、&nbsp;youtube、blogspot</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">）</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">相结合，综合提升企业在网络的知名度，建立品牌；</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"></span></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><o:p>&nbsp;</o:p></span></p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"><img alt="" src="https://www.dyyseo.com/js/htmledit/kindeditor-en/attached/20150327/20150327130518_56403.jpg" />&nbsp; 我们不仅做单一重点词的搜索引擎营销，更注重网站整体关键词的营销（整站优化）；</span><span style="font-family:微软雅黑;color:#808080;font-size:12pt;">我们不仅做国际版Google.com，更注重整体的搜索引擎营销(如Google德国、Google法国、Google意大利、Yahoo.com，Bing.com&nbsp;等全球知名搜索引擎整体营销)</span></p>
+            <p class="MsoNormal">&nbsp;</p>
+            <p class="MsoNormal"><span style="font-family:微软雅黑;color:#808080;font-size:12pt;"></span>&nbsp;</p>
+
+          </div>
         </div>
         <div class="clearfix"></div>
       </div>
@@ -89,7 +67,7 @@
     },
 		data () {
 			return {
-				title : "网店代运营"
+				title : "测试"
       }
 		}
 	}

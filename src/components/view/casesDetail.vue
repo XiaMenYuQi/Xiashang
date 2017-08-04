@@ -25,6 +25,7 @@
     }
   },
   created(){
+    window.scrollTo(0,0);
     var id = parseInt(this.$route.params.id);
     this.content = data.cases[id].content
   }

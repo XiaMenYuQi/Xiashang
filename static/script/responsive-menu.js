@@ -1,7 +1,8 @@
+import jQuery from 'jquery'
 (function($) {
 
   $.fn.menumaker = function(options) {
-      
+
       var cssmenu = $(this), settings = $.extend({
         title: "Menu",
         format: "dropdown",
@@ -13,7 +14,7 @@
         $(this).find("#menu-button").on('click', function(){
           $(this).toggleClass('menu-opened');
           var mainmenu = $(this).next('ul');
-          if (mainmenu.hasClass('open')) { 
+          if (mainmenu.hasClass('open')) {
             mainmenu.slideUp(300).removeClass('open');
           }
           else {
@@ -26,7 +27,7 @@
 
         cssmenu.find('li ul').parent().addClass('has-sub');
 
-        multiTg = function() {
+        var multiTg = function() {
           cssmenu.find(".has-sub").prepend('<span class="submenu-button"></span>');
           cssmenu.find('.submenu-button').on('click', function() {
             $(this).toggleClass('submenu-opened');
@@ -44,7 +45,7 @@
 
         if (settings.sticky === true) cssmenu.css('position', 'fixed');
 
-        resizeFix = function() {
+        var resizeFix = function() {
           if ($( window ).width() > 768) {
             cssmenu.find('ul').slideDown(300);
           }
@@ -61,7 +62,7 @@
 })(jQuery);
 
 (function($){
-$(document).ready(function(){
+
 
 $(document).ready(function() {
   $("#cssmenu").menumaker({
@@ -97,7 +98,7 @@ $("#cssmenu > ul > li").hover(function() {
   linePosition = activeElement.position().left;
   menuLine.css("width", lineWidth);
   menuLine.css("left", linePosition);
-}, 
+},
 function() {
   menuLine.css("left", defaultPosition);
   menuLine.css("width", defaultWidth);
@@ -106,5 +107,5 @@ function() {
 });
 
 
-});
+
 })(jQuery);

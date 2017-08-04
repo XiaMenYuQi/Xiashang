@@ -9,6 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import '../static/css/style.css'
 import '../static/css/responsive-menu.css'
 
+import '../static/script/responsive-menu.js'
 import '../static/script/index.js'
 // import '../static/css/main.css'
 

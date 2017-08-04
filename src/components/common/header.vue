@@ -2,12 +2,12 @@
   <header class="large">
     <div class="container">
       <nav>
-        <a href="/" id="logo"><img src="/static/images/index/24cca6e93a356e99c1638d0751af6622.png" alt="第一页网络科技有限公司"></a>
+        <a href="/" id="logo"><img src="/static/images/index/24cca6e93a356e99c1638d0751af6622.png" alt="夏商网络科技有限公司"></a>
         <ul class="head_right">
-          <li><img src="/static/images/head-phone.jpg" alt=""><p>400-666-7710</p><p>400-661-8788</p></li>
-          <li><img src="/static/images/head-qq.jpg" alt=""><p>800018510</p></li>
+          <li><img src="/static/images/head-phone.jpg" alt=""><p>0592-5553237</p></li>
+          <li><img src="/static/images/head-qq.jpg" alt=""><p>4501897</p></li>
         </ul>
-        <div id="cssmenu"><div id="menu-line" style="width: 36px; left: 0px;"></div><div id="menu-button">Menu</div>
+        <div id="cssmenu">
           <ul class="c-hidden">
             <li class="active"><router-link to="/">首页</router-link></li>
             <li class="has-sub"><span class="submenu-button"></span><router-link to="/about/0" title="关于我们">关于我们</router-link>
@@ -18,7 +18,7 @@
             </li>
             <li class="has-sub">
               <span class="submenu-button"></span>
-              <router-link to="/server/0" title="服务项目">服务项目</router-link>
+              <router-link to="/server/9" title="服务项目">服务项目</router-link>
               <ul class="c-hidden">
                 <li class="has-sub">
                   <span class="submenu-button"></span>
@@ -43,8 +43,7 @@
               </ul>
             </li>
 
-            <li class="has-sub "><span class="submenu-button"></span><router-link to="/casesList">案例欣赏</router-link>
-            <li class="has-sub "><span class="submenu-button"></span><router-link to="/cases/0" title="案例欣赏">案例欣赏</router-link>
+            <li class="has-sub "><span class="submenu-button"></span><router-link to="/casesList" title="案例欣赏">案例欣赏</router-link>
             </li>
 
             <li class="has-sub "><span class="submenu-button"></span><router-link to="/newsList" title="新闻中心">新闻中心</router-link>
