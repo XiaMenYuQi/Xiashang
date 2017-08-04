@@ -7,6 +7,7 @@ import google from '@/components/view/google'
 import test from '@/components/view/test'
 import about from '@/components/view/about'
 import cases from '@/components/view/cases'
+import cases_list from '@/components/view/cases_list'
 
 Vue.use(Router);
 
@@ -43,6 +44,11 @@ export default new Router({
           path: '/about/:id',
           name: 'about',
           component: about
+        },
+        {
+          path: '/cases_list',
+          name: 'cases_list',
+          component: cases_list
         },
         {
           path: '/cases/:id',

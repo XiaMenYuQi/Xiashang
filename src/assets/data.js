@@ -1126,23 +1126,7 @@ const data = {
       title:'香港米兰有限公司',
       cover:'https://www.dyyseo.com/uploadfile/news/cf5b5a5f0ccaf2541579851024f5cb5b.jpg',
       dec:'2010年7月第一页网络科技与米兰网达成SEO战略合作伙伴关系。 主要服务项目：外贸SEO推广 服务效果：在第一页SEO团队执行下，米兰网IP流量取得首次破万'
-    },
-    {
-      title:'',
-      cover:'',
-      dec:''
-    },
-    {
-      title:'',
-      cover:'',
-      dec:''
-    },
-    {
-      title:'',
-      cover:'',
-      dec:''
     }
-
   ],
   cases : [
     {

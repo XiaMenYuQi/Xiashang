@@ -47,7 +47,7 @@
               </ul>
             </li>
 
-            <li class="has-sub "><span class="submenu-button"></span><router-link to="/cases/0">案例欣赏</router-link>
+            <li class="has-sub "><span class="submenu-button"></span><router-link to="/cases_list">案例欣赏</router-link>
             </li>
 
             <li class="has-sub "><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83_nc1">新闻中心</a>
