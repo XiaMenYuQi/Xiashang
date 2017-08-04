@@ -50,10 +50,10 @@
             <li class="has-sub "><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E6%A1%88%E4%BE%8B%E6%AC%A3%E8%B5%8F_nc2">案例欣赏</a>
             </li>
 
-            <li class="has-sub "><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83_nc1">新闻中心</a>
+            <li class="has-sub "><span class="submenu-button"></span><router-link to="/newsList">新闻中心</router-link>
             </li>
 
-            <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC_d20">联系我们</a>
+            <li class="has-sub"><span class="submenu-button"></span><router-link to="/newsList">联系我们</router-link>
               <ul style="overflow: hidden;">
                 <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC_d20" title="联系我们">联系我们</a>
                   <ul style="overflow: hidden;">
@@ -80,13 +80,13 @@
 
             <li id="nav-google" class="has-sub"><span class="submenu-button"></span><router-link to="/google/0">Google AdWords 体验中心<img src="/static/images/hot.gif" alt=""></router-link>
               <ul style="overflow: hidden;">
-                <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/google%20adwords_d37" title="Google AdWords">Google AdWords</a>
+                <li class="has-sub"><span class="submenu-button"></span><router-link to="/google/1">Google AdWords</router-link>
                 </li>
-                <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/google%E8%81%94%E7%9B%9F%E5%B9%BF%E5%91%8A_d43" title="Google联盟广告">Google联盟广告</a>
+                <li class="has-sub"><span class="submenu-button"></span><router-link to="/google/2">Google联盟广告</router-link>
                 </li>
-                <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/google%E7%A7%BB%E5%8A%A8%E5%B9%BF%E5%91%8A_d62" title="Google移动广告">Google移动广告</a>
+                <li class="has-sub"><span class="submenu-button"></span><router-link to="/google/3">Google移动广告</router-link>
                 </li>
-                <li class="has-sub"><span class="submenu-button"></span><a href="https://www.dyyseo.com/google%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A_d63" title="Google视频广告">Google视频广告</a>
+                <li class="has-sub"><span class="submenu-button"></span><router-link to="/google/4">Google视频广告</router-link>
                 </li>
               </ul>
             </li>

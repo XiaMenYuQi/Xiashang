@@ -28,10 +28,17 @@
         content : ''
       }
 		},
+    watch :{
+      '$route' (to, from) {
+        var id = parseInt(this.$route.params.id);
+        this.title = data.google[id].title;
+        this.content = data.google[id].content;
+      }
+    },
     created(){
 			var id = parseInt(this.$route.params.id);
       this.title = data.google[id].title;
-      this.content = data.google[id].content
+      this.content = data.google[id].content;
     }
 	}
 </script>

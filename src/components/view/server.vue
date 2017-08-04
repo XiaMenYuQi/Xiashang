@@ -28,6 +28,13 @@
         content : ''
       }
 		},
+    watch :{
+      '$route' (to, from) {
+        var id = parseInt(this.$route.params.id);
+        this.title = data.server[id].title;
+        this.content = data.server[id].content;
+      }
+    },
     created(){
 			var id = parseInt(this.$route.params.id);
       this.title = data.server[id].title;
