@@ -11,7 +11,7 @@ import '../static/css/responsive-menu.css'
 
 import '../static/script/responsive-menu.js'
 import '../static/script/index.js'
-// import '../static/css/main.css'
+import '../static/css/font-awesome.min.css'
 
 Vue.use(iView);
 
