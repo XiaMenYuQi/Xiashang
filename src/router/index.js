@@ -8,8 +8,9 @@ import newsList from '@/components/view/newsList'
 import newsDetail from '@/components/view/newsDetail'
 import test from '@/components/view/test'
 import about from '@/components/view/about'
-import cases from '@/components/view/cases'
 import contact from '@/components/view/contact'
+import casesDetail from '@/components/view/casesDetail'
+import casesList from '@/components/view/casesList'
 
 Vue.use(Router);
 
@@ -58,9 +59,14 @@ export default new Router({
           component: about
         },
         {
+          path: '/casesList',
+          name: 'casesList',
+          component: casesList
+        },
+        {
           path: '/cases/:id',
-          name: 'cases',
-          component: cases
+          name: 'casesDetail',
+          component: casesDetail
         },
         {
           path: '/contact',

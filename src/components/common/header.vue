@@ -43,6 +43,7 @@
               </ul>
             </li>
 
+            <li class="has-sub "><span class="submenu-button"></span><router-link to="/casesList">案例欣赏</router-link>
             <li class="has-sub "><span class="submenu-button"></span><router-link to="/cases/0" title="案例欣赏">案例欣赏</router-link>
             </li>
 

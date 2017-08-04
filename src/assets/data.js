@@ -1437,8 +1437,8 @@ const data = {
     <div class="pageBox wow fadeIn animated animated" style="visibility: visible; animation-name: fadeIn;">
         <div class="container">
             <ul class="page-nav">
-                <li><router-link to="/about/2">荣誉证书</router-link></li>
-                <li><router-link to="/about/3">员工风采</router-link></li>
+                <li><a href="/about/2">荣誉证书</a></li>
+                <li><a href="/about/3">员工风采</a></li>
             </ul>
         </div>
     </div>
@@ -1500,79 +1500,103 @@ const data = {
         </div>
         <div class="clearfix"></div>
     </div>`
-    }
-  ],
-  caseList:[
-    {
-      title:"美容仪器类案例展示--***美容仪器有限公司",
-      cover:'https://www.dyyseo.com/uploadfile/news/85974a3695bf9ff4876473056cd38e44.gif',
-      dec:'公司名称：***美容仪器 公司域名：www.gzosano.com 公司简介：该公司于2015年九月与我司正式签订多语言服务项目，期间多次充值点击，并于2016年9月继续与我司签订新的一年的合作，且个别小语言也升级为人工翻译站点，目前网站进展良好 服务内容：网站建设+SEO+SEM &nbsp; 网站基本概况： 网站语种：十个语言优化通 网站产品数量：82个 企业配合情况：相对较好，订单操作网站并配合我司运营人员完善网站细节 &nbsp; 网站首页截图展示： 网站运营整体数据展示：（SEO+SEM) 收录：3100条 &nbsp;权重：谷歌首页 Google Adwords相关数据展示：（部分内容展示） （1）点击情况： （2）附加信息：附加广告信息包括附加链接，附加宣传信息，附加地址信息，附加电话信息等。增加广告展示内容，让潜在客户以更快的速度获取更多有用信息，提高广告点击率。 网站运营效果展示： 不同渠道来的网站ip展示： 询盘情况展示：'
     },
     {
-      title:'太阳能支架产品类案例展示—厦门阳程新能源有限公司',
-      cover:'https://www.dyyseo.com/uploadfile/news/ce0f39d7eb8d1baf1fd825f6036f7446.png',
-      dec:'网址：www.sunforson.com 公司名称：厦门阳程新能源有限公司 相关背景介绍：该公司于2014年就与我公司签订合作关系；于2015年3月签订追加服务，在我公司追加建站服务与优化服务；并于2016年6月续费优化服务，继续与我公司签订服务合同。 网站概况： 网站服务：多语言优化通 网站语种：英语、西班牙语、日语、汉语 网站产品数量：54个 网站收录：1080条 网站首页页面展示： &nbsp; 网站运营效果展示： 每日访问明细： 搜索引擎来路展示： 关键词来路展示： &nbsp; 询盘展示： 案例总结： 该站运营效果很好，每天访问量30个左右，每天都有询盘，网站权重较高。 目前大量关键词均取得较好排名，相信后期如果客户能提高配合度，网站运营效果将会更好。'
-    },
-    {
-      title:'烟草站案例展示--恩施和诺生物工程有限责任公司',
-      cover:'https://www.dyyseo.com/uploadfile/news/512cec8826e6d87196d658d69d3c144b.png',
-      dec:'网址：www.henonicotine.com 英文名称：ENSHI HENO BIOLOGICA ENGINEERING CO.,LTD 相关背景介绍：该公司于2015年三月份正式与我司建立合作关系，网站在上线初期就有明显的进展,网站运营效果良好，并于2016年6月与我司签订2年续费合同。 网站概况： 网站服务：多语言优化通 网站语种：英语、德语、俄语、意大利语、西班牙语、葡萄牙、荷兰、阿拉伯、日语、韩语、波兰语 网站产品数量：287个 网站收录：1160/9970条 网站优势：原创的网站内容+客户定期配合+用心的专业运营服务（站内优化及站外建设）&nbsp; 网站首页页面展示： 网站相关效果展示： 搜索引擎来路展示： 关键词来路展示： &nbsp; 询盘展示： 案例总结： 该站运营效果很好，每天访问量50个左右，平均每天不只一封询盘，网站权重很高。 客户一直非常配合，网站自上线以来始终保持定期更新，且严格按照运营人员的指导，合理的布置网站产品关键词。目前大量关键词均取得较好排名，相信后期在双方的完美配合下，网站效果定能进一步提升。'
-    },
-    {
-      title:'石材站案例展示--厦门顺森贸易有限公司',
-      cover:'https://www.dyyseo.com/uploadfile/news/288ee2bc2be085120c063280d3cb4c72.jpg',
-      dec:'网址：www.xmshunsen.com 英文名称：SHUNSEN INDUSTRIES CORPORATION 相关背景介绍：该司于2015年五月份正式与我司建立合作关系，网站在上线两个月后就有明显的进展,目前网站已经运营近一年的时间，网站权重和效果稳步提升，目前网站效果呈现逐渐上升的趋势。 网站概况： 网站服务：多语言优化通 网站语种：英语、德语、西班牙语 网站产品数量：667个 网站收录：2220/6250条 网站优势：客户的配合+高质量的网站内容+专业的SEO优化服务（站内优化及站外建设） 网站首页页面展示： 网站相关效果展示： &nbsp; 搜索引擎来路展示： &nbsp;&nbsp; 关键词来路展示： &nbsp; 询盘展示：'
-    },
-    {
-      title:'汽配站案例--泉州奇诺电子有限公司',
-      cover:'https://www.dyyseo.com/uploadfile/news/e2532d9f805e55f0b4c84034581bdf28.png',
-      dec:'企业名称：泉州奇诺电子有限公司 公司域名：www.qinuo.net 所做服务：多语言整站优化+运营 网站操作背景：该公司于 2014 年 11 月正式与我司合作，合作初期，为单独的多语言整站 优化通和中文网站。经过一年多的合作，该司于 2016 年三月在我司继续追加中英文两个网站。目前与我司合作的站点共计 4 个。 &nbsp; 网站首页展示： 结合产品丰富多样的特点，首页详细突出重点产品特点以及重点的分类。用户可以在第一时 间浏览网站的热门产品及最新产品。丰富网站内链的同时，可以进一步提升用户体验。 &nbsp; 网站目前概况： 1.目前产品最新数量：133 2.网站最新收录：4050 条 3.网站域名权重：谷歌第一 4.网站公司排名：谷歌排名第一 &nbsp; 操作效果展示： （1）每月流量情况展示： &nbsp; （2）网站总体访问概况： &nbsp;&nbsp; （3）网站关键词来路展示： &nbsp; （4）后台询盘情况展示： &nbsp;'
-    },
-    {
-      title:'广州曼妥斯钢结构工程有限公司',
-      cover:'https://www.dyyseo.com/uploadfile/news/e2f57362cc64a78b39ef24e11fddb367.png',
-      dec:'上线时间：2016.04.13 产品数量：130个 网站背景：客户于14年在我司运营第一个多语言网站，并于16年追加第二个多语言站点。 网站情况介绍：上线两个多月，网站询盘、流量及关键词排名都较好 页面展示: &nbsp; 访问来路展示： &nbsp; 带来流量的关键词： 询盘展示：'
-    },
-    {
-      title:'深圳市新力电动科技有限公司——整站优化服务',
-      cover:'https://www.dyyseo.com/uploadfile/news/ccc6f660535cdbc272a41621fd27e46e.png',
-      dec:'网站服务：整站优化 网站优势：网站权重较好，客户和操作人员的相互配合 网站效果：网站有大量长尾关键词排名，部分主词也有较好排名，且不少长尾词已经转化为流量，网站从搜索引擎来的流量稳定 &nbsp; 网站效果展示： 1）网站访问量概况： &nbsp; 2）自6月份统计以来的关键词来路展示: &nbsp; 3）搜索引擎占总流量百分比 &nbsp; 客户评价：客户对我方操作和网站整体效果较为满意，在8月份的进度报告发送之后，客户主动电话过来表示感谢. &nbsp;'
-    },
-    {
-      title:'深圳众为兴技术股份有限公司',
-      cover:'https://www.dyyseo.com/uploadfile/news/5520c24bd88261c4d5b9bc53bf49c740.png',
-      dec:'企业名称：深圳众为兴技术股份有限公司 域名：www.machine-controller.com 所做服务：多语言整站优化+运营 网站操作背景：该公司与2014年12月正式与我司合作并开始建立网站，利用两个月的时间将网站搭建完成，并完善好相关的网站信息与内容。2014.12.10网站正式上线并开始运营推广。原先网站为十个多语种服务内容，经过一年的运营时间，客户于2016年1月继续追加投资，升级为20个语言的钻石优化通。 网站结构： 结合行业以及客户需求及优化指导建议，构建一个集利于优化，加强用户体验，符合谷歌蜘蛛抓取规则为一体的实用型网站。 &nbsp; &nbsp; 产品详情页面展示： 小语种站点地图设置sitemap.xml文件 分别提交到搜索引擎 &nbsp; 网站访问情况展示： &nbsp; 每月流量展示： &nbsp; 搜素引擎来路展示： &nbsp; 关键词来路： 部分询盘展示：'
-    },
-    {
-      title:'敦煌网    世纪禾光科技发展（北京）有限公司',
-      cover:'https://www.dyyseo.com/uploadfile/news/8823752d2e578770231522f083bdf997.png',
-      dec:'2015年3月24日，中国最领先的在线B2B交易平台敦煌网与第一页网络科技正式达成SEO合作协议。 主要合作项目：小语种海外SEO推广 涉及语种：西班牙语、德语、法语、意大利语、葡萄牙语'
-    },
-    {
-      title:'香港米兰有限公司',
-      cover:'https://www.dyyseo.com/uploadfile/news/cf5b5a5f0ccaf2541579851024f5cb5b.jpg',
-      dec:'2010年7月第一页网络科技与米兰网达成SEO战略合作伙伴关系。 主要服务项目：外贸SEO推广 服务效果：在第一页SEO团队执行下，米兰网IP流量取得首次破万'
-    },
-    {
-      title:'',
-      cover:'',
-      dec:''
-    },
-    {
-      title:'',
-      cover:'',
-      dec:''
-    },
-    {
-      title:'',
-      cover:'',
-      dec:''
-    }
+      title:'荣誉证书',
+      content : `<!--目录-->
+    <div class="pageBox wow fadeIn animated animated" style="visibility: visible; animation-name: fadeIn;">
+        <div class="container">
+            <ul class="page-nav">
+                <li class="pagen-depth"><a href="/about/3">荣誉证书</a></li>
+                <li><a href="/about/3">员工风采</a></li>
+            </ul>
+        </div>
+    </div>
+    <!--内容-->
+    <div class="couresBox wow slideInUp animated animated" style="visibility: visible; animation-name: slideInUp;">
+        <div class="container">
 
+            <p>&nbsp;</p>
+            <ul class="baguetteBoxTwo gallery02">
+                <li class="col-sm-3 col-xs-6"><a href="/static/images/about/c68bc98ed249a251576b1873f9f37b7c.jpg" data-caption="谷歌代理商证书">
+                    <img src="/static/images/about/c68bc98ed249a251576b1873f9f37b7c.jpg" alt="谷歌代理商证书"></a><p>谷歌代理商证书</p></li>
+                <div class="clearfix"></div>
+            </ul>
+            <script>
+                baguetteBox.run('.baguetteBoxTwo', {
+                    animation: 'fadeIn'
+                });
+            </script>
+            <div class="clearfix"></div>
+        </div>
+        <div class="clearfix"></div>
+    </div>`
+    },
+    {
+      title:'员工风采',
+      content : `<!--目录-->
+    <div class="pageBox wow fadeIn animated animated" style="visibility: visible; animation-name: fadeIn;">
+        <div class="container">
+            <ul class="page-nav">
+                <li><a href="/about/2">荣誉证书</a></li>
+                <li class="pagen-depth"><a href="/about/3">员工风采</a></li>
+            </ul>
+        </div>
+    </div>
+    <!--主要内容-->
+    <div class="couresBox wow slideInUp animated animated" style="visibility: visible; animation-name: slideInUp;">
+        <div class="container">
+
+            <br>
+            <div class="flexslider02"><ul class="slides"><li class="flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;">
+            </li>
+            </ul>
+                <div class="clearfix"></div>
+                <ol class="flex-control-nav flex-control-paging"></ol><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev flex-disabled" href="#" tabindex="-1">Previous</a></li><li class="flex-nav-next"><a class="flex-next flex-disabled" href="#" tabindex="-1">Next</a></li></ul><div class="flex-pauseplay"><a class="flex-pause">Pause</a></div></div>
+            <ul class="baguetteBoxOne gallery">
+                <li class="col-sm-3 col-xs-6"><a href="/星光夜语翡翠湾----第一页网络科技厦门销售部户外休闲活动_n203"><img src="/static/images/about/7bef03070dc0fbbfcb7968bcd12e139a.JPG" alt="星光夜语翡翠湾----第一页网络科技厦门销售部户外休闲活动"></a><p>星光夜语翡翠湾----第一页网络科技厦门销售部户外休闲活动</p></li>
+                <li class="col-sm-3 col-xs-6"><a href="/google analytics 认证的人员_n136"><img src="/static/images/about/2b20eb4521eb7e161813580a23085dca.jpg" alt="Google Analytics 认证的人员"></a><p>Google Analytics 认证的人员</p></li>
+                <li class="col-sm-3 col-xs-6"><a href="/第一页网络科技厦门销售部 天竺山户外休闲活动_n129"><img src="/static/images/about/9d7bd01ec8779f36baec0bdd1058f556.jpg" alt="第一页网络科技厦门销售部 天竺山户外休闲活动"></a><p>第一页网络科技厦门销售部 天竺山户外休闲活动</p></li>
+                <li class="col-sm-3 col-xs-6"><a href="/广州分公司线下会议剪影_n33"><img src="https://www.dyyseo.com/static/images/about/5f1d90fcd476d524d47956d8c13daf93.JPG" alt="广州分公司线下会议剪影"></a><p>广州分公司线下会议剪影</p></li>
+                <li class="col-sm-3 col-xs-6"><a href="https://www.dyyseo.com/uploadfile/news/eb2dfafa03f77ec8f4f8177f89189411.jpeg" data-caption="总经理 —— 孙荣耀"><img src="/static/images/about/eb2dfafa03f77ec8f4f8177f89189411.jpeg" alt="总经理 —— 孙荣耀"></a><p>总经理 —— 孙荣耀</p></li>
+                <li class="col-sm-3 col-xs-6"><a href="/厦门销售分公司户外活动剪影_n30"><img src="https://www.dyyseo.com/static/images/about/c7446c89e2fd28012ca2215c1837cc12.jpg" alt="厦门销售分公司户外活动剪影"></a><p>厦门销售分公司户外活动剪影</p></li>
+                <li class="col-sm-3 col-xs-6"><a href="/合肥技术总部产业园新办公地点_n27"><img src="https://www.dyyseo.com/static/images/about/06b4775ce1d1fcb439aaffe48cda181c.jpg" alt="合肥技术总部产业园新办公地点"></a><p>合肥技术总部产业园新办公地点</p></li>
+                <li class="col-sm-3 col-xs-6"><a href="/厦门会议剪影_n26"><img src="https://www.dyyseo.com/static/images/about/0fa36fefb7cc5966c9670c49de87048e.JPG" alt="厦门会议剪影"></a><p>厦门会议剪影</p></li>
+                <li class="col-sm-3 col-xs-6"><a href="/厦门销售分公司全家福_n25"><img src="https://www.dyyseo.com/static/images/about/ee0c625180c83adbda3b3ed04abb746b.jpg" alt="厦门销售分公司全家福"></a><p>厦门销售分公司全家福</p></li>
+                <div class="clearfix"></div>
+            </ul>
+            <script>
+                baguetteBox.run('.baguetteBoxOne', {
+                    animation: 'fadeIn'
+                });
+            </script>
+            <div class="clearfix"></div>
+
+
+
+            <!--        <ul class="about_nav">
+                                                                        <li class="col-sm-4 col-xs-12">
+                            <a href="/荣誉证书_d55" title="荣誉证书">
+                            <span><img src="https://www.dyyseo.com/uploadfile/single/dc84beef3d4daa10a8edd8942d66ab5c.jpg" alt="荣誉证书" /><p></p></span>
+                            <em>荣誉证书</em></a>
+                        </li>
+                                                <li class="col-sm-4 col-xs-12">
+                            <a href="/员工风采_d56" title="员工风采">
+                            <span><img src="https://www.dyyseo.com/uploadfile/single/d84d78060f4695bd37b230c1cc632ae0.jpg" alt="员工风采" /><p></p></span>
+                            <em>员工风采</em></a>
+                        </li>
+                                                <div class="clearfix"></div>
+                    </ul>-->
+        </div>
+        <div class="clearfix"></div>
+    </div>`
+    }
   ],
   cases : [
     {
-      title:'案例欣赏',
+      title:"美容仪器类案例展示--***美容仪器有限公司",
+      cover:'https://www.dyyseo.com/uploadfile/news/85974a3695bf9ff4876473056cd38e44.gif',
+      dec:'公司名称：***美容仪器 公司域名：www.gzosano.com 公司简介：该公司于2015年九月与我司正式签订多语言服务项目，期间多次充值点击，并于2016年9月继续与我司签订新的一年的合作，且个别小语言也升级为人工翻译站点，目前网站进展良好 服务内容：网站建设+SEO+SEM &nbsp; 网站基本概况： 网站语种：十个语言优化通 网站产品数量：82个 企业配合情况：相对较好，订单操作网站并配合我司运营人员完善网站细节 &nbsp; 网站首页截图展示： 网站运营整体数据展示：（SEO+SEM) 收录：3100条 &nbsp;权重：谷歌首页 Google Adwords相关数据展示：（部分内容展示） （1）点击情况： （2）附加信息：附加广告信息包括附加链接，附加宣传信息，附加地址信息，附加电话信息等。增加广告展示内容，让潜在客户以更快的速度获取更多有用信息，提高广告点击率。 网站运营效果展示： 不同渠道来的网站ip展示： 询盘情况展示：',
       content : `<div class="case-main">
             <em>美容仪器类案例展示--***美容仪器有限公司</em>
         </div>
@@ -1636,7 +1660,9 @@ const data = {
         </div>`
     },
     {
-      title:'案例欣赏',
+      title:'太阳能支架产品类案例展示—厦门阳程新能源有限公司',
+      cover:'https://www.dyyseo.com/uploadfile/news/ce0f39d7eb8d1baf1fd825f6036f7446.png',
+      dec:'网址：www.sunforson.com 公司名称：厦门阳程新能源有限公司 相关背景介绍：该公司于2014年就与我公司签订合作关系；于2015年3月签订追加服务，在我公司追加建站服务与优化服务；并于2016年6月续费优化服务，继续与我公司签订服务合同。 网站概况： 网站服务：多语言优化通 网站语种：英语、西班牙语、日语、汉语 网站产品数量：54个 网站收录：1080条 网站首页页面展示： &nbsp; 网站运营效果展示： 每日访问明细： 搜索引擎来路展示： 关键词来路展示： &nbsp; 询盘展示： 案例总结： 该站运营效果很好，每天访问量30个左右，每天都有询盘，网站权重较高。 目前大量关键词均取得较好排名，相信后期如果客户能提高配合度，网站运营效果将会更好。',
       content : `<div class="case-main">
             <em>太阳能支架产品类案例展示—厦门阳程新能源有限公司</em>
         </div> <div class="case-container">
@@ -1675,7 +1701,9 @@ const data = {
         </div>`
     },
     {
-      title:'案例欣赏',
+      title:'烟草站案例展示--恩施和诺生物工程有限责任公司',
+      cover:'https://www.dyyseo.com/uploadfile/news/512cec8826e6d87196d658d69d3c144b.png',
+      dec:'网址：www.henonicotine.com 英文名称：ENSHI HENO BIOLOGICA ENGINEERING CO.,LTD 相关背景介绍：该公司于2015年三月份正式与我司建立合作关系，网站在上线初期就有明显的进展,网站运营效果良好，并于2016年6月与我司签订2年续费合同。 网站概况： 网站服务：多语言优化通 网站语种：英语、德语、俄语、意大利语、西班牙语、葡萄牙、荷兰、阿拉伯、日语、韩语、波兰语 网站产品数量：287个 网站收录：1160/9970条 网站优势：原创的网站内容+客户定期配合+用心的专业运营服务（站内优化及站外建设）&nbsp; 网站首页页面展示： 网站相关效果展示： 搜索引擎来路展示： 关键词来路展示： &nbsp; 询盘展示： 案例总结： 该站运营效果很好，每天访问量50个左右，平均每天不只一封询盘，网站权重很高。 客户一直非常配合，网站自上线以来始终保持定期更新，且严格按照运营人员的指导，合理的布置网站产品关键词。目前大量关键词均取得较好排名，相信后期在双方的完美配合下，网站效果定能进一步提升。',
       content : `<div class="case-main">
             <em>烟草站案例展示--恩施和诺生物工程有限责任公司</em>
         </div><div class="case-container">
@@ -1737,7 +1765,9 @@ const data = {
                     </div>`
     },
     {
-      title:'案例欣赏',
+      title:'石材站案例展示--厦门顺森贸易有限公司',
+      cover:'https://www.dyyseo.com/uploadfile/news/288ee2bc2be085120c063280d3cb4c72.jpg',
+      dec:'网址：www.xmshunsen.com 英文名称：SHUNSEN INDUSTRIES CORPORATION 相关背景介绍：该司于2015年五月份正式与我司建立合作关系，网站在上线两个月后就有明显的进展,目前网站已经运营近一年的时间，网站权重和效果稳步提升，目前网站效果呈现逐渐上升的趋势。 网站概况： 网站服务：多语言优化通 网站语种：英语、德语、西班牙语 网站产品数量：667个 网站收录：2220/6250条 网站优势：客户的配合+高质量的网站内容+专业的SEO优化服务（站内优化及站外建设） 网站首页页面展示： 网站相关效果展示： &nbsp; 搜索引擎来路展示： &nbsp;&nbsp; 关键词来路展示： &nbsp; 询盘展示：',
       content : `<div class="case-main">
             <em>石材站案例展示--厦门顺森贸易有限公司</em>
         </div><div class="case-container">
@@ -1795,7 +1825,9 @@ const data = {
                     </div>`
     },
     {
-      title:'案例欣赏',
+      title:'汽配站案例--泉州奇诺电子有限公司',
+      cover:'https://www.dyyseo.com/uploadfile/news/e2532d9f805e55f0b4c84034581bdf28.png',
+      dec:'企业名称：泉州奇诺电子有限公司 公司域名：www.qinuo.net 所做服务：多语言整站优化+运营 网站操作背景：该公司于 2014 年 11 月正式与我司合作，合作初期，为单独的多语言整站 优化通和中文网站。经过一年多的合作，该司于 2016 年三月在我司继续追加中英文两个网站。目前与我司合作的站点共计 4 个。 &nbsp; 网站首页展示： 结合产品丰富多样的特点，首页详细突出重点产品特点以及重点的分类。用户可以在第一时 间浏览网站的热门产品及最新产品。丰富网站内链的同时，可以进一步提升用户体验。 &nbsp; 网站目前概况： 1.目前产品最新数量：133 2.网站最新收录：4050 条 3.网站域名权重：谷歌第一 4.网站公司排名：谷歌排名第一 &nbsp; 操作效果展示： （1）每月流量情况展示： &nbsp; （2）网站总体访问概况： &nbsp;&nbsp; （3）网站关键词来路展示： &nbsp; （4）后台询盘情况展示： &nbsp;',
       content : `<div class="case-main">
             <em>汽配站案例--泉州奇诺电子有限公司</em>
         </div><div class="case-container">
@@ -1845,7 +1877,9 @@ const data = {
         </div>`
     },
     {
-      title:'案例欣赏',
+      title:'广州曼妥斯钢结构工程有限公司',
+      cover:'https://www.dyyseo.com/uploadfile/news/e2f57362cc64a78b39ef24e11fddb367.png',
+      dec:'上线时间：2016.04.13 产品数量：130个 网站背景：客户于14年在我司运营第一个多语言网站，并于16年追加第二个多语言站点。 网站情况介绍：上线两个多月，网站询盘、流量及关键词排名都较好 页面展示: &nbsp; 访问来路展示： &nbsp; 带来流量的关键词： 询盘展示：',
       content : `<div class="case-main">
             <em>广州曼妥斯钢结构工程有限公司</em>
         </div><div class="case-container">
@@ -1904,7 +1938,9 @@ const data = {
                     </div>`
     },
     {
-      title:'案例欣赏',
+      title:'深圳市新力电动科技有限公司——整站优化服务',
+      cover:'https://www.dyyseo.com/uploadfile/news/ccc6f660535cdbc272a41621fd27e46e.png',
+      dec:'网站服务：整站优化 网站优势：网站权重较好，客户和操作人员的相互配合 网站效果：网站有大量长尾关键词排名，部分主词也有较好排名，且不少长尾词已经转化为流量，网站从搜索引擎来的流量稳定 &nbsp; 网站效果展示： 1）网站访问量概况： &nbsp; 2）自6月份统计以来的关键词来路展示: &nbsp; 3）搜索引擎占总流量百分比 &nbsp; 客户评价：客户对我方操作和网站整体效果较为满意，在8月份的进度报告发送之后，客户主动电话过来表示感谢. &nbsp;',
       content : `<div class="case-main">
             <em>深圳市新力电动科技有限公司——整站优化服务</em>
         </div><div class="case-container">
@@ -1934,7 +1970,9 @@ const data = {
                     </div>`
     },
     {
-      title:'案例欣赏',
+      title:'深圳众为兴技术股份有限公司',
+      cover:'https://www.dyyseo.com/uploadfile/news/5520c24bd88261c4d5b9bc53bf49c740.png',
+      dec:'企业名称：深圳众为兴技术股份有限公司 域名：www.machine-controller.com 所做服务：多语言整站优化+运营 网站操作背景：该公司与2014年12月正式与我司合作并开始建立网站，利用两个月的时间将网站搭建完成，并完善好相关的网站信息与内容。2014.12.10网站正式上线并开始运营推广。原先网站为十个多语种服务内容，经过一年的运营时间，客户于2016年1月继续追加投资，升级为20个语言的钻石优化通。 网站结构： 结合行业以及客户需求及优化指导建议，构建一个集利于优化，加强用户体验，符合谷歌蜘蛛抓取规则为一体的实用型网站。 &nbsp; &nbsp; 产品详情页面展示： 小语种站点地图设置sitemap.xml文件 分别提交到搜索引擎 &nbsp; 网站访问情况展示： &nbsp; 每月流量展示： &nbsp; 搜素引擎来路展示： &nbsp; 关键词来路： 部分询盘展示：',
       content : `<div class="case-main">
             <em>深圳众为兴技术股份有限公司</em>
         </div><div class="case-container">
@@ -1996,7 +2034,9 @@ const data = {
         </div>`
     },
     {
-      title:'案例欣赏',
+      title:'敦煌网    世纪禾光科技发展（北京）有限公司',
+      cover:'https://www.dyyseo.com/uploadfile/news/8823752d2e578770231522f083bdf997.png',
+      dec:'2015年3月24日，中国最领先的在线B2B交易平台敦煌网与第一页网络科技正式达成SEO合作协议。 主要合作项目：小语种海外SEO推广 涉及语种：西班牙语、德语、法语、意大利语、葡萄牙语',
       content : `<div class="case-main">
             <em>敦煌网    世纪禾光科技发展（北京）有限公司 </em>
         </div><div class="case-container">
@@ -2015,7 +2055,9 @@ const data = {
                     </div>`
     },
     {
-      title:'案例欣赏',
+      title:'香港米兰有限公司',
+      cover:'https://www.dyyseo.com/uploadfile/news/cf5b5a5f0ccaf2541579851024f5cb5b.jpg',
+      dec:'2010年7月第一页网络科技与米兰网达成SEO战略合作伙伴关系。 主要服务项目：外贸SEO推广 服务效果：在第一页SEO团队执行下，米兰网IP流量取得首次破万',
       content : `<div class="case-main">
             <em>香港米兰有限公司</em>
         </div><div class="case-container">
@@ -2039,7 +2081,9 @@ const data = {
                     </div>`
     },
     {
-      title:'案例欣赏',
+      title:'google优化_石材行业网站优化案例_厦门壹林进出口有限公司',
+      cover:'https://www.dyyseo.com/uploadfile/news/bb4e7af91ff61dac18218efd635dd1e4.png',
+      dec:'网站服务：多语言优化通（多语言网站建设+谷歌SEO优化） 网站优势：符合谷歌蜘蛛抓取规则的网站布局+高质量的网站内容+网站seo优化（站内优化及内链建设）+持续稳定的外链建设 网站效果：网站很多行业关键词都有排名，且已转化为流量，网站搜索引擎流量情况很好 &nbsp; 1）主次分明，条理清晰的网站结构 &nbsp; 2）扁平化的网站结构，伪静态url，有利于蜘蛛抓取 &nbsp; 3）添加网站robots及sitemap文件，引导蜘蛛抓取 4）网站搜索引擎来路展示，google搜索来的流量占网站总流量90%以上 &nbsp;',
       content : `<div class="case-main">
             <em>google优化_石材行业网站优化案例_厦门壹林进出口有限公司</em>
         </div><div class="case-container">
@@ -2069,7 +2113,9 @@ const data = {
                     </div>`
     },
     {
-      title:'案例欣赏',
+      title:'钢结构类网站优化案例_广州市曼布斯钢结构工程有限公司',
+      cover:'https://www.dyyseo.com/uploadfile/news/038e042b2a1225398a3a3a4b6f7420a2.png',
+      dec:'网站服务：多语言优化通（营销型网站建设+谷歌SEO优化） 网站优势：符合谷歌蜘蛛抓取规则的网站布局+高质量的网站内容+网站seo优化（站内优化及内链建设）+持续稳定的外链建设 网站效果：网站很多行业关键词都有排名，且已转化为流量，网站搜索引擎流量情况很好 &nbsp; 网站优化结构展示： 1）网站数据版块布局主次分明、条理清晰、能体现企业的经营优势 &nbsp; 2）静态页面，提高搜索引擎收录质量 3）自动生成SiteMap.xml地图，提高搜索引擎收录速度 &nbsp;4）自定义Meta元标签标题、Keyword、Description 5）丰富的站内链接，引导用户访问和google抓取 &nbsp; 第三方统计工具的流量展示： 1）流量概况展示 2）月关键词来路展示 &nbsp;3）月搜索引擎来路（包括各国google和其他搜索引擎的来路）展示： &nbsp;网站部分询盘截图展示： &nbsp; 案例总结： 在营销型网站的基础上，我们的运营人员配合客户进行网站的关键词布置，不断拓展网站的行业关键词覆盖率，网站长尾词效果稳定提升。 &nbsp; &nbsp; &nbsp;',
       content : `<div class="case-main">
             <em>钢结构类网站优化案例_广州市曼布斯钢结构工程有限公司</em>
         </div><div class="case-container">

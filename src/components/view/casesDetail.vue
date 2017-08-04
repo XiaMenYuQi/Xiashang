@@ -20,13 +20,12 @@
     },
     data () {
     return {
-      title : '',
+      title : '案例欣赏',
       content : ''
     }
   },
   created(){
     var id = parseInt(this.$route.params.id);
-    this.title = data.cases[id].title;
     this.content = data.cases[id].content
   }
   }
