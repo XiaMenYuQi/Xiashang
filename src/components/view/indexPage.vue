@@ -109,7 +109,7 @@
       </div>
 
       <div class="index-ad wow fadeIn animated animated" style="visibility: visible; animation-name: fadeIn;">
-        <em><img src="/static/images/sel.png" alt=""></em>
+
       </div>
     </div>
 </template>

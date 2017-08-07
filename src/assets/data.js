@@ -884,8 +884,7 @@ const data = {
             <p class="MsoNormal"></p>
             <p class="MsoNormal"></p>
             <p class="MsoNormal"></p>
-            <p class="MsoNormal"><b style="line-height:1.5;"><span style="font-family:宋体;color:#333333;letter-spacing:0pt;font-size:16px;"><img src="/static/images/other/20160714093027_62744.jpg" alt=""><br>
-</span></b></p>
+            
             <p class="MsoNormal"><b style="line-height:1.5;"><span style="font-family:宋体;color:#333333;letter-spacing:0pt;font-size:16px;"><br>
 </span></b></p>
             <p class="MsoNormal"><b style="line-height:1.5;"><span style="font-family:宋体;color:#333333;letter-spacing:0pt;font-size:16px;"><br>
