@@ -9,7 +9,7 @@
         </ul>
         <div id="cssmenu">
           <ul class="c-hidden">
-            <li class="active"><router-link to="/">首页</router-link></li>
+            <li class="has-sub"><router-link to="/">首页</router-link></li>
             <li class="has-sub"><span class="submenu-button"></span><router-link to="/about/0" title="关于我们">关于我们</router-link>
               <ul class="c-hidden">
                 <li class="has-sub"><span class="submenu-button"></span><router-link to="/about/1" title="发展历程">发展历程</router-link>

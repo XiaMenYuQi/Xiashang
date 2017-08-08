@@ -53,7 +53,7 @@
     created(){
       window.scrollTo(0,0);
 			var id = parseInt(this.$route.params.id);
-      if(id+1 >= data.news.length) return;
+      if(id >= data.news.length) return;
       this.title = data.news[id].title;
       this.content = data.news[id].content;
       this.date = data.news[id].date;

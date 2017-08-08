@@ -28,7 +28,6 @@
                   <li><router-link to="/server/6" title="国际B2B平台">国际B2B平台</router-link></li>
                   <li><router-link to="/server/7" title="外贸黄埔军校">外贸黄埔军校</router-link></li>
                   <li><router-link to="/server/8" title="网店代运营">网店代运营</router-link></li>
-                  <li><a href="https://www.dyyseo.com/_d" class="boldRed"></a></li>
                 </ul>
               </div>
             </section>

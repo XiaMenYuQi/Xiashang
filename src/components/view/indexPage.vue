@@ -4,13 +4,13 @@
 
         <Carousel autoplay arrow="always" dots="inside">
           <Carousel-item>
-            <a href="https://www.dyyseo.com/%E7%B3%BB%E7%BB%9F%E4%BB%8B%E7%BB%8D_d69" target="_self"><img src="/static/images/index/1491564245363888888.jpg" alt="4" draggable="false"></a>
+            <router-link to="/server/2" title="响应式营销网站"><img src="/static/images/index/1491564245363888888.jpg" alt="4" draggable="false"></router-link>
           </Carousel-item>
           <!--<Carousel-item>-->
             <!--<a href="https://www.dyyseo.com/#" target="_self"><img src="/static/images/index/1465865109058.jpg" alt="3" draggable="false"></a>-->
           <!--</Carousel-item>-->
           <Carousel-item>
-            <a href="https://www.dyyseo.com/#" target="_self"><img src="/static/images/index/1463562885213888888.jpg" alt="2" draggable="false"></a>
+            <router-link to="/google/1" title="Google AdWords"><img src="/static/images/index/1463562885213888888.jpg" alt="2" draggable="false"></router-link>
           </Carousel-item>
         </Carousel>
 
@@ -63,11 +63,11 @@
 
       <div class="workBox wow fadeIn animated animated" style="visibility: visible; animation-name: fadeIn;">
 
-        <a href="https://www.dyyseo.com/%E6%A1%88%E4%BE%8B%E6%AC%A3%E8%B5%8F_nc2" class="index-title wow fadeIn animated animated" style="visibility: visible; animation-name: fadeIn;"><img src="/static/images/title-work.png" alt=""></a>
+        <router-link to="/casesList" class="index-title wow fadeIn animated animated" style="visibility: visible; animation-name: fadeIn;"><img src="/static/images/title-work.png" alt=""></router-link>
         <div class="spotlightWrapper wow zoomIn animated animated" style="visibility: visible; animation-name: zoomIn;">
           <ul>
             <li style="width: 223px; height: 168px;" v-for="(item,index) in cases">
-              <router-link :to="'/cases/' + index">
+              <router-link :to="'/cases/' + index" target="_blank">
               <img :src="item.cover" :alt="item.title" style="opacity: 1;">
               <div class="light-active" style="display: none;">
                 <span><img src="/static/images/work-hover.png" alt="" style="opacity: 1;"></span>
@@ -87,7 +87,7 @@
 
       <div class="newsBox">
 
-        <a href="https://www.dyyseo.com/%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83_nc1" class="index-title wow fadeIn animated animated" style="visibility: visible; animation-name: fadeIn;"><img src="/static/images/title-news.png" alt=""></a>
+        <router-link to="/newsList" class="index-title wow fadeIn animated animated" style="visibility: visible; animation-name: fadeIn;"><img src="/static/images/title-news.png" alt=""></router-link>
         <span class="news-line"></span>
         <div class="container">
           <ul class="index-news">
@@ -96,8 +96,8 @@
               <span class="inews-cal"><p></p></span>
               <div>
                 <span></span>
-                <router-link :to="'/news/' + index" class="inews-img"><img :src="item.cover" :alt="item.title"></router-link>
-                <router-link :to="'/news/' + index"><em>{{item.title}}</em></router-link>
+                <router-link :to="'/news/' + index" class="inews-img" target="_blank"><img :src="item.cover" :alt="item.title"></router-link>
+                <router-link :to="'/news/' + index" target="_blank"><em>{{item.title}}</em></router-link>
                 <p>{{item.dec}}</p>
                 <router-link :to="'/news/' + index" class="inews-more">了解更多</router-link>
               </div>
