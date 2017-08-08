@@ -949,7 +949,6 @@ const data = {
             <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;font-weight:bold;font-size:12pt;">低成本起步</span></p>
             <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;color:#7a7a7a;font-size:12pt;">仅以广告被点击次数收费，展示免费。前期投入成本低，且每一分钱都花在潜在客户身上。</span></p>
             <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:宋体;font-size:10.5pt;">&nbsp;</span></p>
-            <p style="font-family:&#39;sans serif&#39;, tahoma, verdana, helvetica;"><span style="font-family:微软雅黑;color:#ff0000;font-weight:bold;font-size:14pt;">咨询热线：</span><span style="font-family:微软雅黑;color:#ff0000;font-weight:bold;font-size:14pt;">400-666-7710</span></p>
             <p>&nbsp;</p>
             <p>
               <span style="font-size:24px;color:#99bb00;"><b><img src="/static/images/other/20150305082030_68238.png" alt=""></b></span></p>

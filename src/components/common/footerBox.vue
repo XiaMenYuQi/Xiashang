@@ -38,8 +38,11 @@
               <div class="block_content toggle_content c-hidden">
                 <ul>
                   <li class="col-sm-4 col-xs-6">
-                    <p>厦门销售中心</p>
-                    <div><p>电话：</p>0592-5553237</div>
+                    <div> 地址：云南省昆明市建设路296号银燕中心11层<br />
+                      <br />
+                      电话：13132139813&nbsp;<br />
+                      <br />
+                      邮箱：4501897@qq.com</div>
                   </li>
                 </ul>
               </div>
